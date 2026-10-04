@@ -17,7 +17,7 @@ The working directory is the folder the user launched you from."""
 
 
 
-#SO LETS BUILD SOME TOOLS FOR code editor agent calls so it crud the code
+#SO LETS BUILD SOME TOOLS FOR code editor agent calls so it crud the code files
 
 #firs list tools list the all the files in dir if not provided dir name it will take the current
 def list_files(path="."):
